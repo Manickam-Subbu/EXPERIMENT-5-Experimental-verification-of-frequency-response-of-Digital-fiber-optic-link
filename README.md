@@ -42,26 +42,34 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 9. Calculate the bandwidth by determining the gain in decibels (dB).  
 
 ---
-
-
 ## BLOCK DIAGRAM
-<img width="508" height="306" alt="image" src="https://github.com/user-attachments/assets/65365527-ac92-45d9-9ce2-928ab029baaa" />
 
+<img width="504" height="208" alt="image" src="https://github.com/user-attachments/assets/3eba8b40-f4b1-4bd8-8b56-dfbc18711566" />
 
 ---
 
-## CONNECTION DIAGRAM 
-<img width="471" height="227" alt="image" src="https://github.com/user-attachments/assets/d357f92d-8a43-4f56-b144-c1879a0578a5" />
+## CONNECTION DIAGRAM  
+**Setting up a Digital Link**
 
+<img width="515" height="127" alt="image" src="https://github.com/user-attachments/assets/5e18d568-7cf6-4d26-a2e6-3fca9f74c8d1" />
 
 
 ---
 
 ## TABULATION  
 **Transmission through Digital Link**
-![WhatsApp Image 2025-11-17 at 22 13 16_4add1d82](https://github.com/user-attachments/assets/fa50f5a4-2a1e-46c0-b5cd-5143452fe777)
+
+![WhatsApp Image 2025-11-17 at 20 15 34_2c967fb6](https://github.com/user-attachments/assets/5d9120b4-bdb1-431f-ad7f-4251a80693bd)
 
 ---
+
+## MODEL GRAPH
+
+<img width="599" height="322" alt="image" src="https://github.com/user-attachments/assets/1315dcd7-7a5b-49a4-8d9f-c2b4ceec2feb" />
+
+---
+
+
 
 ## MODEL GRAPH
 ![WhatsApp Image 2025-11-12 at 13 45 40_b6fd0271](https://github.com/user-attachments/assets/65cfd980-64a8-4547-be5c-d1435c648ffa)
